@@ -1,4 +1,4 @@
-# CodeArena - Online Code Compiler
+# CodeArena - student login system
 
 A full-stack web application for compiling and running code in multiple programming languages with Docker sandbox execution.
 
